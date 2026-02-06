@@ -5,4 +5,4 @@ Certified Software Engineer, Blockchain and Senior Developer, developing Applica
 Artificial Intelligence devotee interested in Computer Vision, Deep Learning, Natural Language Processing and more.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=15+years+of+coding+experience;Full-stack,+AI+and+Blockchain;Driven+by+curiosity+and+creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=15+years+of+coding+experience;Full-Stack,+AI+and+Blockchain;Driven+by+curiosity+and+creativity)](https://git.io/typing-svg)
